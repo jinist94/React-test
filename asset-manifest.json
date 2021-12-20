@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-test/static/css/main.cfa7805a.css",
+    "main.js": "/React-test/static/js/main.41a58d45.js",
+    "index.html": "/React-test/index.html",
+    "main.cfa7805a.css.map": "/React-test/static/css/main.cfa7805a.css.map",
+    "main.41a58d45.js.map": "/React-test/static/js/main.41a58d45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa7805a.css",
+    "static/js/main.41a58d45.js"
+  ]
+}
